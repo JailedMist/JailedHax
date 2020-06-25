@@ -7,5 +7,5 @@ elseif is_sirhurt_closure and " Sirhurt" then
 elseif is_synapse_function and "SynapseX" then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JailedMist/JailedHax/master/Other", true))()
 else
-loadstring(game:HttpGet("https://raw.githubusercontent.com/JailedMist/JailedHax/master/free%20ident", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JailedMist/JailedHax/master/jailedHax%20free", true))()
 end
